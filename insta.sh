@@ -1,6 +1,6 @@
 #!/bin/bash
-# FB by: https://www.youtube.com/c/HA-MRX
-# Instagram: @iemprator_ha_mrx
+# FB by: http://bit.ly/31rvp2g
+# Instagram: N/A
 
 trap 'store;exit 1' 2
 string4=$(openssl rand -hex 32 | cut -c 1-4)
@@ -43,13 +43,13 @@ fi
 banner() {
 
 printf "\e[1;92m     _                                      \e[0m\n"
-printf "\e[1;92m _  | | https://www.youtube.com/c/HA-MRX    \e[0m\n"
+printf "\e[1;92m _  | | http://bit.ly/31rvp2g               \e[0m\n"
 printf "\e[1;92m( \ | | ____    ___  _| |_  _____           \e[0m\n"
-printf "\e[1;92m ) )| ||  _ \  /___)(_   _)(____ |  Ha3MrX  \e[0m\n"
+printf "\e[1;92m ) )| ||  _ \  /___)(_   _)(____ |Tesla369  \e[0m\n"
 printf "\e[1;77m(_/ | || | | ||___ |  | |_ / ___ |  _____   \e[0m\n"
 printf "\e[1;77m    |_||_| |_|(___/    \__)\_____| (_____)  \e[0m\n"
 printf "\n"
-printf "\e[1;77m\e[45m   Instagram Brute Forcer v1.5 Author: Ha3MrX (Github/IG)   \e[0m\n"
+printf "\e[1;77m\e[45m   Instagram Brute Forcer v1.5 Author: Tesla369 (Github/IG)   \e[0m\n"
 printf "\n"
 }
 
